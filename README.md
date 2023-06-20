@@ -17,4 +17,4 @@ $ python3 -m pip install -U .
 ```
 
 ## Links
-- [hodots. Docs for Developers](https://hodots.official.jp/developers)
+- [hodots. Docs for Developers](https://docs.hodots.com) - **NOT FINISHED**
