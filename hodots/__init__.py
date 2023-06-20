@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-api_url = 'https://api.hodots.com'
+api_url = 'http://localhost:5001'
 HODOTS_SESSION_KEY = os.environ.get('HODOTS_SESSION_KEY', None)
 
 class SessionKeyError(Exception):
