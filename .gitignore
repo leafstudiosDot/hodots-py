@@ -1,3 +1,4 @@
 __pycache__
 python-dotenv
 .env
+example.py
