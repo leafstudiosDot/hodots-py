@@ -1,1 +1,4 @@
 requests
+python_dotenv
+sphinx
+wheel

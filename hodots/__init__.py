@@ -2,6 +2,8 @@ import os
 import requests
 from dotenv import load_dotenv
 
+__version__ = "0.0.1"
+
 load_dotenv()
 
 api_url = 'https://api.hodots.com'
